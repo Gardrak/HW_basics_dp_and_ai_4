@@ -1,4 +1,4 @@
-3x3: Params=60362, Test Acc=69.62%, Train Time=83.15s, RF=5
+3x3: Params=94666, Test Acc=69.62%, Train Time=83.15s, RF=5
 5x5: Params=94666, Test Acc=71.10%, Train Time=84.57s, RF=9
-7x7: Params=146122, Test Acc=67.97%, Train Time=86.08s, RF=13
-Mixed: Params=34442, Test Acc=68.66%, Train Time=84.03s, RF=5
+7x7: Params=94666, Test Acc=67.97%, Train Time=86.08s, RF=13
+Mixed: Params=94666, Test Acc=68.66%, Train Time=84.03s, RF=5
