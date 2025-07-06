@@ -1,0 +1,9 @@
+MNIST Results:
+FC: Params=567434, Test Acc=96.69%, Train Time=94.44s
+SimpleCNN: Params=421642, Test Acc=99.05%, Train Time=102.06s
+ResNetMNIST: Params=77290, Test Acc=99.05%, Train Time=118.90s
+
+CIFAR-10 Results:
+FC: Test Acc=38.52%, Train Time=164.69s
+ResNetCIFAR10: Test Acc=78.53%, Train Time=194.52s
+ResNetRegularized: Test Acc=76.51%, Train Time=196.63s

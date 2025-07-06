@@ -1,0 +1,21 @@
+Basic:
+  Parameters: 2777674
+  Test Accuracy: 82.27%
+  Training Time: 356.25s
+  Min Gradient: 0.000044
+  Max Gradient: 0.017588
+  Gradient Ratio: 403.96
+Bottleneck:
+  Parameters: 221386
+  Test Accuracy: 75.18%
+  Training Time: 220.30s
+  Min Gradient: 0.000631
+  Max Gradient: 0.022695
+  Gradient Ratio: 35.94
+Wide:
+  Parameters: 2777674
+  Test Accuracy: 78.79%
+  Training Time: 378.99s
+  Min Gradient: 0.000098
+  Max Gradient: 0.040316
+  Gradient Ratio: 412.50
